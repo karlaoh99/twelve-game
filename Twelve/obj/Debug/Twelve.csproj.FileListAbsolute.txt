@@ -1,0 +1,142 @@
+C:\Users\DR\Documents\Visual Studio 2015\Projects\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\Twelve.exe.config
+C:\Users\DR\Documents\Visual Studio 2015\Projects\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\Twelve.exe
+C:\Users\DR\Documents\Visual Studio 2015\Projects\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\Twelve.pdb
+C:\Users\DR\Documents\Visual Studio 2015\Projects\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\ClassLibrary Twelve.dll
+C:\Users\DR\Documents\Visual Studio 2015\Projects\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\ClassLibrary Twelve.pdb
+C:\Users\DR\Documents\Visual Studio 2015\Projects\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.csprojResolveAssemblyReference.cache
+C:\Users\DR\Documents\Visual Studio 2015\Projects\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.Properties.Resources.resources
+C:\Users\DR\Documents\Visual Studio 2015\Projects\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.csproj.GenerateResource.Cache
+C:\Users\DR\Documents\Visual Studio 2015\Projects\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.exe
+C:\Users\DR\Documents\Visual Studio 2015\Projects\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.pdb
+C:\Users\DR\Documents\Visual Studio 2015\Projects\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.frm_Twelve.resources
+F:\Nueva carpeta\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\Twelve.exe.config
+F:\Nueva carpeta\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.exe
+F:\Nueva carpeta\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.pdb
+F:\Nueva carpeta\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\Twelve.exe
+F:\Nueva carpeta\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\Twelve.pdb
+F:\Nueva carpeta\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\ClassLibrary Twelve.dll
+F:\Nueva carpeta\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\ClassLibrary Twelve.pdb
+F:\Nueva carpeta\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.csprojResolveAssemblyReference.cache
+F:\Nueva carpeta\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.frm_ModoAgresivo.resources
+F:\Nueva carpeta\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.frm_Twelve.resources
+F:\Nueva carpeta\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.frm_ModoNormal.resources
+F:\Nueva carpeta\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.Properties.Resources.resources
+F:\Nueva carpeta\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.csproj.GenerateResource.Cache
+F:\ClassLibrary Twelve\Twelve\bin\Debug\Twelve.exe.config
+F:\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.exe
+F:\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.pdb
+F:\ClassLibrary Twelve\Twelve\bin\Debug\Twelve.exe
+F:\ClassLibrary Twelve\Twelve\bin\Debug\Twelve.pdb
+F:\ClassLibrary Twelve\Twelve\bin\Debug\ClassLibrary Twelve.dll
+F:\ClassLibrary Twelve\Twelve\bin\Debug\ClassLibrary Twelve.pdb
+F:\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.csprojResolveAssemblyReference.cache
+F:\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.frm_ModoAgresivo.resources
+F:\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.frm_Twelve.resources
+F:\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.frm_ModoNormal.resources
+F:\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.Properties.Resources.resources
+F:\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.csproj.GenerateResource.Cache
+F:\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\Twelve.exe.config
+F:\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.exe
+F:\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.pdb
+F:\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\Twelve.exe
+F:\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\Twelve.pdb
+F:\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\ClassLibrary Twelve.dll
+F:\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\ClassLibrary Twelve.pdb
+F:\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.csprojResolveAssemblyReference.cache
+F:\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.frm_Twelve.resources
+F:\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.Properties.Resources.resources
+F:\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.csproj.GenerateResource.Cache
+C:\Users\karla olivera\Documents\Visual Studio 2015\Projects\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\Twelve.exe.config
+C:\Users\karla olivera\Documents\Visual Studio 2015\Projects\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.exe
+C:\Users\karla olivera\Documents\Visual Studio 2015\Projects\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.pdb
+C:\Users\karla olivera\Documents\Visual Studio 2015\Projects\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\Twelve.exe
+C:\Users\karla olivera\Documents\Visual Studio 2015\Projects\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\Twelve.pdb
+C:\Users\karla olivera\Documents\Visual Studio 2015\Projects\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\ClassLibrary Twelve.dll
+C:\Users\karla olivera\Documents\Visual Studio 2015\Projects\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\ClassLibrary Twelve.pdb
+C:\Users\karla olivera\Documents\Visual Studio 2015\Projects\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.csprojResolveAssemblyReference.cache
+C:\Users\karla olivera\Documents\Visual Studio 2015\Projects\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.frm_Twelve.resources
+C:\Users\karla olivera\Documents\Visual Studio 2015\Projects\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.Properties.Resources.resources
+C:\Users\karla olivera\Documents\Visual Studio 2015\Projects\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.csproj.GenerateResource.Cache
+J:\Nueva carpeta\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\Twelve.exe.config
+J:\Nueva carpeta\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.exe
+J:\Nueva carpeta\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.pdb
+J:\Nueva carpeta\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\Twelve.exe
+J:\Nueva carpeta\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\Twelve.pdb
+J:\Nueva carpeta\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\ClassLibrary Twelve.dll
+J:\Nueva carpeta\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\ClassLibrary Twelve.pdb
+J:\Nueva carpeta\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.csprojResolveAssemblyReference.cache
+J:\Nueva carpeta\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.frm_Twelve.resources
+J:\Nueva carpeta\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.Properties.Resources.resources
+J:\Nueva carpeta\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.csproj.GenerateResource.Cache
+C:\Users\Karla\Documents\Visual Studio 2015\Projects\Mi Proyecto\Nueva carpeta\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\Twelve.exe.config
+C:\Users\Karla\Documents\Visual Studio 2015\Projects\Mi Proyecto\Nueva carpeta\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.exe
+C:\Users\Karla\Documents\Visual Studio 2015\Projects\Mi Proyecto\Nueva carpeta\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.pdb
+C:\Users\Karla\Documents\Visual Studio 2015\Projects\Mi Proyecto\Nueva carpeta\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.csprojResolveAssemblyReference.cache
+C:\Users\Karla\Documents\Visual Studio 2015\Projects\Mi Proyecto\Nueva carpeta\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.frm_Twelve.resources
+C:\Users\Karla\Documents\Visual Studio 2015\Projects\Mi Proyecto\Nueva carpeta\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.Properties.Resources.resources
+C:\Users\Karla\Documents\Visual Studio 2015\Projects\Mi Proyecto\Nueva carpeta\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.csproj.GenerateResource.Cache
+C:\Users\Karla\Documents\Visual Studio 2015\Projects\Mi Proyecto\Nueva carpeta\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\Twelve.exe
+C:\Users\Karla\Documents\Visual Studio 2015\Projects\Mi Proyecto\Nueva carpeta\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\Twelve.pdb
+C:\Users\Karla\Documents\Visual Studio 2015\Projects\Mi Proyecto\Nueva carpeta\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\ClassLibrary Twelve.dll
+C:\Users\Karla\Documents\Visual Studio 2015\Projects\Mi Proyecto\Nueva carpeta\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\ClassLibrary Twelve.pdb
+E:\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\Twelve.exe.config
+E:\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.exe
+E:\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.pdb
+E:\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\Twelve.exe
+E:\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\Twelve.pdb
+E:\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\ClassLibrary Twelve.dll
+E:\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\ClassLibrary Twelve.pdb
+E:\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.csprojResolveAssemblyReference.cache
+E:\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.frm_Twelve.resources
+E:\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.Properties.Resources.resources
+E:\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.csproj.GenerateResource.Cache
+C:\Users\DR\Documents\Visual Studio 2015\Projects\Mi Proyecto\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\Twelve.exe.config
+C:\Users\DR\Documents\Visual Studio 2015\Projects\Mi Proyecto\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.exe
+C:\Users\DR\Documents\Visual Studio 2015\Projects\Mi Proyecto\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.pdb
+C:\Users\DR\Documents\Visual Studio 2015\Projects\Mi Proyecto\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\Twelve.exe
+C:\Users\DR\Documents\Visual Studio 2015\Projects\Mi Proyecto\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\Twelve.pdb
+C:\Users\DR\Documents\Visual Studio 2015\Projects\Mi Proyecto\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\ClassLibrary Twelve.dll
+C:\Users\DR\Documents\Visual Studio 2015\Projects\Mi Proyecto\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\ClassLibrary Twelve.pdb
+C:\Users\DR\Documents\Visual Studio 2015\Projects\Mi Proyecto\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.csprojResolveAssemblyReference.cache
+C:\Users\DR\Documents\Visual Studio 2015\Projects\Mi Proyecto\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.frm_Twelve.resources
+C:\Users\DR\Documents\Visual Studio 2015\Projects\Mi Proyecto\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.Properties.Resources.resources
+C:\Users\DR\Documents\Visual Studio 2015\Projects\Mi Proyecto\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.csproj.GenerateResource.Cache
+J:\Mi Proyecto....m\ClassLibrary Twelve\Twelve\bin\Debug\Twelve.exe.config
+J:\Mi Proyecto....m\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.exe
+J:\Mi Proyecto....m\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.pdb
+J:\Mi Proyecto....m\ClassLibrary Twelve\Twelve\bin\Debug\Twelve.exe
+J:\Mi Proyecto....m\ClassLibrary Twelve\Twelve\bin\Debug\Twelve.pdb
+J:\Mi Proyecto....m\ClassLibrary Twelve\Twelve\bin\Debug\ClassLibrary Twelve.dll
+J:\Mi Proyecto....m\ClassLibrary Twelve\Twelve\bin\Debug\ClassLibrary Twelve.pdb
+J:\Mi Proyecto....m\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.csprojResolveAssemblyReference.cache
+J:\Mi Proyecto....m\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.frm_Twelve.resources
+J:\Mi Proyecto....m\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.Properties.Resources.resources
+J:\Mi Proyecto....m\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.csproj.GenerateResource.Cache
+J:\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\Twelve.exe.config
+J:\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.exe
+J:\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.pdb
+C:\Users\Karla\Documents\Visual Studio 2015\Projects\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\Twelve.exe.config
+C:\Users\Karla\Documents\Visual Studio 2015\Projects\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.exe
+C:\Users\Karla\Documents\Visual Studio 2015\Projects\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.pdb
+C:\Users\Karla\Documents\Visual Studio 2015\Projects\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\Twelve.exe
+C:\Users\Karla\Documents\Visual Studio 2015\Projects\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\Twelve.pdb
+C:\Users\Karla\Documents\Visual Studio 2015\Projects\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\ClassLibrary Twelve.dll
+C:\Users\Karla\Documents\Visual Studio 2015\Projects\Mi Proyecto\ClassLibrary Twelve\Twelve\bin\Debug\ClassLibrary Twelve.pdb
+C:\Users\Karla\Documents\Visual Studio 2015\Projects\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.csprojResolveAssemblyReference.cache
+C:\Users\Karla\Documents\Visual Studio 2015\Projects\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.frm_Twelve.resources
+C:\Users\Karla\Documents\Visual Studio 2015\Projects\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.Properties.Resources.resources
+C:\Users\Karla\Documents\Visual Studio 2015\Projects\Mi Proyecto\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.csproj.GenerateResource.Cache
+G:\ClassLibrary Twelve\Twelve\bin\Debug\Twelve.exe.config
+G:\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.exe
+G:\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.pdb
+G:\ClassLibrary Twelve\Twelve\bin\Debug\Twelve.exe
+G:\ClassLibrary Twelve\Twelve\bin\Debug\Twelve.pdb
+G:\ClassLibrary Twelve\Twelve\bin\Debug\ClassLibrary Twelve.dll
+G:\ClassLibrary Twelve\Twelve\bin\Debug\ClassLibrary Twelve.pdb
+G:\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.csprojResolveAssemblyReference.cache
+G:\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.frm_Twelve.resources
+G:\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.Properties.Resources.resources
+G:\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.csproj.GenerateResource.Cache
+D:\Escuela\MATCOM\Mis pruebas PRO\Mi Proyecto Twelve\ClassLibrary Twelve\Twelve\bin\Debug\Twelve.exe.config
+D:\Escuela\MATCOM\Mis pruebas PRO\Mi Proyecto Twelve\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.exe
+D:\Escuela\MATCOM\Mis pruebas PRO\Mi Proyecto Twelve\ClassLibrary Twelve\Twelve\obj\Debug\Twelve.pdb
